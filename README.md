@@ -1,4 +1,4 @@
-
+ 
 ## history
 O perceptron foi inventado em 1943 por Warren McCulloch e Walter Pitts. A primeira implementação de hardware foi a máquina Mark I Perceptron construída em 1957 por Frank Rosenblatt no Cornell Aeronautical Laboratory. Ele pode ser visto como o tipo mais simples de rede neural feedforward: um classificador linear.
 1. Mark I Perceptron
